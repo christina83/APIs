@@ -8,5 +8,13 @@
     height: 50px;
     box-sizing: border-box; /* to make sure the border is on the inside */
     border-spacing: 0;
-    border: 1px grey solid;
+    border: 1px rgb(243, 233, 233) solid;
+}
+
+#solution {
+    color: #000;
+}
+
+.odd-section {
+    background-color: rosybrown;
 }
